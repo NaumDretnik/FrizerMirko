@@ -19,3 +19,39 @@ left: 0;
 right: 0;
 margin: auto;
 }
+.headlini {
+  background-color: #232323;
+  color: #F4F4F4;
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid #F4F4F4;
+  border-top: 1px solid #F4F4F4;
+  border-radius: 3px;
+}
+.ponudba {
+  text-align: center;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+.footer {
+  border-top: 1px solid #F4F4F4;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+.navigacija {
+  float: right;
+  margin-right: 20%;
+}
+
+.navi {
+  text-decoration: none;
+  color: inherit;
+}
+.navi:hover {
+  text-decoration: none;
+  color: inherit;
+}
+*:focus{
+    outline: none !important;
+    text-decoration: none !important;
+}
