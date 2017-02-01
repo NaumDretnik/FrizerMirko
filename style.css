@@ -39,8 +39,9 @@ margin: auto;
   padding-top: 20px;
 }
 .navigacija {
+  position: relative;
   float: right;
-  margin-right: 20%;
+  margin-right: 40%;
 }
 
 .navi {
@@ -54,4 +55,10 @@ margin: auto;
 *:focus{
     outline: none !important;
     text-decoration: none !important;
+}
+h2 {
+  color: #F4F4F4;
+  display: inline;
+  float: left;
+  margin-bottom: -5px;
 }
